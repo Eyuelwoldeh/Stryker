@@ -27,7 +27,7 @@ This project is a simple 2D game built in Python, where the player controls a mi
     ```
 3. **Run the Game**:
     ```bash
-    python car_missile_game.py
+    python Stryker.py
     ```
 
 ## How to Play
